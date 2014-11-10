@@ -1,4 +1,5 @@
 require "scoped_search"
+require "scoped_search/oracle_enhanced/version"
 
 module ScopedSearch
 
