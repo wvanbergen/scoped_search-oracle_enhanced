@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["willem@railsdoctors.com"]
   spec.summary       = %q{Oracle enhanced support for scoped_search}
   spec.description   = %q{This gem contains an OracleEhanced adapter for scoped search query builder, to obtain better search results on Oracle databases.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/wvanbergen/scoped_search"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
