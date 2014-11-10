@@ -8,7 +8,6 @@ module ScopedSearch
   #    require "scoped_search/oracle_enhanced
   #
   module OracleEnhanced
-    VERSION = "0.0.1"
   end
 
   class QueryBuilder
